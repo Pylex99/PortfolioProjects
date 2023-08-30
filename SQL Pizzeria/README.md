@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Pizzeria Profits Report SQL Queries
 Data Analyst Portfolio: Exploring, Analyzing, and Visualizing Real-world Data
 
 Pizzeria Profits Report: Orders and Revenue - Data Analysis for Visualization Project
